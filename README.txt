@@ -1,0 +1,1 @@
+This is a little Android game I've been working on. Inspired by one of my favorite Android games Defender 2. The idea is to defend yourself with your turret and optionally with two towers. Also, you will be able to send your monsters against other players bases.

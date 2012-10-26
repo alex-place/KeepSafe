@@ -27,10 +27,13 @@ import com.badlogic.androidgames.framework.impl.AndroidGame;
  * 
  * TODO Add HelpScreen functions. 
  * TODO Add HighScoreScreen functions. 
- * TODO Add UpgradeScreen functions. 
- * TODO (IMPORTANT) Add ScoreLoop integration. 
- * TODO ScoreLoop LeaderBoard / High Scores. 
- * TODO Add ScoreLoop In-Game Items.
+ * TODO Add UpgradeScreen functions.
+ * 
+ * TODO Add FaceBook SDK integration. 
+ *  
+ * TODO (Postponed) Add ScoreLoop integration. 
+ * TODO (Postponed) ScoreLoop LeaderBoard / High Scores. 
+ * TODO (Postponed) Add ScoreLoop In-Game Items.
  * 
  * TODO Add Character and logic.
  * TODO Add weapons, guns, magic wand, etc. (4 remaining 0 completed)

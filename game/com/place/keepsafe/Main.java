@@ -17,7 +17,9 @@ import com.badlogic.androidgames.framework.impl.AndroidGame;
  * TODO Make pixel art barricades. (4 Remaining 0 completed) 
  * TODO Make pixel art enemies.(4 Remaining 0 Completed)
  * 
- * TODO Give main turret logic. TODO Give towers logic. TODO Give enemies logic.
+ * TODO Give main turret logic. 
+ * TODO Give towers logic. 
+ * TODO Give enemies logic.
  * TODO Give barricades logic.
  * 
  * (Completed) Add LoadingScreen functions.
@@ -29,6 +31,9 @@ import com.badlogic.androidgames.framework.impl.AndroidGame;
  * TODO (IMPORTANT) Add ScoreLoop integration. 
  * TODO ScoreLoop LeaderBoard / High Scores. 
  * TODO Add ScoreLoop In-Game Items.
+ * 
+ * TODO Add Character and logic.
+ * TODO Add weapons, guns, magic wand, etc. (4 remaining 0 completed)
  * 
  */
 
